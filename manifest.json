@@ -1,0 +1,21 @@
+{
+  "name": "Piyush Raorane Portfolio",
+  "short_name": "Portfolio",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#0d0d0d",
+  "theme_color": "#00ffe1",
+  "description": "Piyush Raorane's personal portfolio showcasing skills and projects.",
+  "icons": [
+    {
+      "src": "icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
