@@ -1,7 +1,7 @@
 {
   "name": "Piyush Raorane Portfolio",
   "short_name": "Portfolio",
-  "start_url": "/index.html",
+  "start_url": "/PWA/index.html",
   "display": "standalone",
   "background_color": "#0d0d0d",
   "theme_color": "#00ffe1",
